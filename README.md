@@ -1,15 +1,9 @@
 ![bg](https://user-images.githubusercontent.com/46853050/175365348-61d34e05-6ec2-4682-a299-82534fe2b594.jpg)
 
-# 🤯 Currently extending TypeScript skill 
-
 
 ### Hi There! I'm Michał 👋
-# 💫 About Me:
-🔭 I’m currently working on Tychy shelter page<br>👯 I'm looking to collaborate on Front-end tech<br>🌱 I’m currently learning basics of TypeScript and lang English<br>💬 Ask me about motocycles and digital graphic 🤤<br>⚡ Fun fact i'm to lazy to spend time for solving problems in hard way minimalist end easier solution are the best solution.💗<br>Yeah i can't touch nose with my tongue - but who care? 😎
-
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ememerunio/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sopelm) 
 [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/ememer)
 
@@ -24,8 +18,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ememer&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ememer&icon=0&color=0)](https://visitcount.itsvg.in)
